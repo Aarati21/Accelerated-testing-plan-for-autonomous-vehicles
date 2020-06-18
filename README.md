@@ -4,11 +4,8 @@ Homework description
 
 You are tasked of developing a test plan for a L4 autonomous driving system. 
 Let’s assume we want to deploy our product in an urban area where the self-driving system is intended to operate safely. 
-This area of operation is usually described by the Operational Design Domain, which is defined like this:
-“The specific conditions under which a given driving automation system or feature thereof is designed to function. 
-An ODD may include geographic, roadway, environmental, traffic, speed, actor and/or temporal conditions.” 
-The ODD for this exercise is a loop around our office building in Munich. 
-The start and end point is in front of the main entrance at Ungererstr. 69 in Munich. 
+
+The start and end point of the ODD is in front of the main entrance at Ungererstr. 69 in Munich. 
 The self-driving vehicle (SV) is intended to conduct all necessary driving behaviors in the dedicated ODD. 
 To limit the scope of this exercise we simplify the OOD and work with some operational constraints: 
 - The SV is only intended to make right-turns to do the loop. 
