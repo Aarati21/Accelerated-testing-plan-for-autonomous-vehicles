@@ -11,7 +11,7 @@ The ODD for this exercise is a loop around our office building in Munich.
 The start and end point is in front of the main entrance at Ungererstr. 69 in Munich. 
 The self-driving vehicle (SV) is intended to conduct all necessary driving behaviors in the dedicated ODD. 
 To limit the scope of this exercise we simplify the OOD and work with some operational constraints: 
-• The SV is only intended to make right-turns to do the loop. 
+- The SV is only intended to make right-turns to do the loop. 
 • There are no passengers on-board, only a safety driver. 
 • The SV is not intended to operate in inclement weather. 
 • We assume that the speed limit is 30 kmh per hour the entire loop. 
